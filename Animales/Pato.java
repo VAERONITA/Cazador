@@ -34,7 +34,7 @@ public class Pato implements Interfaz.Animal{
 
     @Override
     public void huir() {
-        JOptionPane.showMessageDialog(null,"El pato escapo Esque sabe volar");
+        JOptionPane.showMessageDialog(null,"El pato escapo es que sabe volar");
     }
     @Override
     public int GetVida() {
